@@ -97,3 +97,16 @@ Sequence type
 ----> Sequence represent a collection of elements and include data types like
 string,list,tuples
 
+LIST, DICTIONARY, SET TUPLES AND TYPE CONVERSION
+--------------------------------------------------------------------------------------------
+Lists is used to store multiple items in a single variable.
+In python is used to collection of data
+List are mutable Which means you can modify, add and remove elements after the list is created.
+List items are indexed, first item index is [0] and second item index is [1].
+
+for-examples
+            numbers=[1,2,3,4,5]
+            fruits=['apple','banana','orange']
+
+
+
